@@ -1,4 +1,4 @@
-# Build Knowledge Graph from a Text - EECS4080 Course Project
+# Building Knowledge Graph from a Text - EECS4080 Course Project
 
 ## Installation
 Install dependencies - refer to requirement.txt
